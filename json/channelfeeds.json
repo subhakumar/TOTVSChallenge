@@ -1,0 +1,34 @@
+{
+  "channels": [
+    {
+      "channel": "John",
+      "feeds": {
+        "item": [
+          {
+            "datetime": "1/1/2012",
+            "description": "Last minute change-up. I will indeed be at SouthBay this year. "
+          },
+          {
+            "datetime": "1/1/2012",
+            "description": "NFL playoff picture: Patriots, Seahawks making power moves"
+          }
+        ]
+      }
+    },
+    {
+      "channel": "Peter",
+      "feeds": {
+        "item": [
+          {
+            "datetime": "1/1/2012",
+            "description": "Bread may lack the personality of ice cream or the good looks of brownies, but it's full of the same joy In this YouTube ..."
+          },
+          {
+            "datetime": "1/1/2012",
+            "description": "As the now necessary U.S. drones rules have proven, the tiny flying devices are now so popular it's hard to avoid them in ..."
+          }
+        ]
+      }
+    }
+  ]
+}
